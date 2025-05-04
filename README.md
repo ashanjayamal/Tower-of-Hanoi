@@ -35,29 +35,7 @@ A classic Tower of Hanoi puzzle game implemented as a web application using HTML
 3. No disk may be placed on top of a smaller disk
 4. The goal is to move all disks from the first tower to another tower in the minimum number of moves
 
-## 🔧 Installation
 
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/tower-of-hanoi.git
-```
-
-2. Navigate to the project directory:
-```bash
-cd tower-of-hanoi
-```
-
-3. Open the `index.html` file in your browser:
-```bash
-# On macOS
-open index.html
-
-# On Linux
-xdg-open index.html
-
-# On Windows
-start index.html
-```
 
 No dependencies or build process required!
 
@@ -138,10 +116,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - Create a tutorial mode
 - Add animations for disk movements
 - Implement local storage to save game progress
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgements
 
