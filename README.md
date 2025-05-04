@@ -15,9 +15,7 @@ A classic Tower of Hanoi puzzle game implemented as a web application using HTML
 
 ## 🎮 Demo
 
-![Tower of Hanoi Demo](/api/placeholder/600/300)
-
-[Live Demo](https://ashanjayamal.github.io/tower-of-hanoi)
+[Live Demo](https://ashanjayamal.github.io/Tower-of-Hanoi.html)
 
 ## ✨ Features
 
