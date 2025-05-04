@@ -6,12 +6,9 @@ A classic Tower of Hanoi puzzle game implemented as a web application using HTML
 - [Demo](#demo)
 - [Features](#features)
 - [Game Rules](#game-rules)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Code Structure](#code-structure)
 - [Algorithm](#algorithm)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## 🎮 Demo
 
@@ -98,24 +95,6 @@ function solveTowerOfHanoi(n, source, destination, auxiliary) {
 
 The minimum number of moves required to solve the Tower of Hanoi puzzle with n disks is 2^n - 1.
 
-## 👥 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-### Potential Improvements
-- Add sound effects
-- Implement difficulty levels beyond 5 disks
-- Add touch-friendly controls for mobile devices
-- Implement a scoring system based on moves and time
-- Create a tutorial mode
-- Add animations for disk movements
-- Implement local storage to save game progress
 
 ## 🙏 Acknowledgements
 
