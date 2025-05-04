@@ -1,11 +1,5 @@
 # Tower of Hanoi
 
-![Tower of Hanoi](https://img.shields.io/badge/Game-Tower%20of%20Hanoi-blue)
-![HTML](https://img.shields.io/badge/HTML-5-orange)
-![CSS](https://img.shields.io/badge/CSS-3-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-![License](https://img.shields.io/badge/License-MIT-green)
-
 A classic Tower of Hanoi puzzle game implemented as a web application using HTML, CSS, and vanilla JavaScript. This interactive implementation allows users to solve the puzzle manually or watch an automated solution.
 
 ## 📝 Table of Contents
@@ -23,7 +17,7 @@ A classic Tower of Hanoi puzzle game implemented as a web application using HTML
 
 ![Tower of Hanoi Demo](/api/placeholder/600/300)
 
-[Live Demo](https://yourusername.github.io/tower-of-hanoi)
+[Live Demo](https://ashanjayamal.github.io/tower-of-hanoi)
 
 ## ✨ Features
 
